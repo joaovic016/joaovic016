@@ -5,7 +5,7 @@
 📚 Foco em desenvolvimento e tecnologia  
 🚀 Buscando oportunidade de estágio
 
-## Tecnologia em aprendizado
+##       Tecnologias em aprendizado
 - Site Portugol
 - Lógica de Programação
 - Git e GitHub
